@@ -1,4 +1,7 @@
 # Diagnostics Working Group
+
+[![Join us on Slack](https://img.shields.io/badge/Join%20us%20on-Slack-e01563.svg)](https://node-js.slack.com/archives/C016U31J15M)
+
 The goal of this WG is to ensure Node provides a set of comprehensive, documented, extensible diagnostic protocols, formats, and APIs to enable tool vendors to provide reliable diagnostic tools for Node.
 
 Work is divided into several domains:
